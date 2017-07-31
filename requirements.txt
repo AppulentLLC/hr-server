@@ -1,0 +1,7 @@
+django==1.11.3
+django-cors-headers==2.1.0
+django-filter==1.0.4
+django-localflavor==1.5.2
+django-oauth-toolkit==1.0.0
+djangorestframework==3.6.3
+djangorestframework_jsonapi==2.2.0

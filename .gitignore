@@ -1,0 +1,13 @@
+db.sqlite3
+
+**/__pycache__
+
+**/*.pyc
+
+/server/secrets.py
+
+/fixtures
+
+/static
+
+/src
